@@ -17,49 +17,49 @@
 ![Collections](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Collections.png)
 
 
-### [Blue（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Blue.txt)
+### [Blue（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/txt/Blue.txt)
 ![Blue](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Blue.png)
 
 
-### [Blue Gray（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Blue%20Gray.txt)
+### [Blue Gray（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/txt/Blue%20Gray.txt)
 ![Blue Gray](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Blue%20Gray.png)
 
 
-### [Bright Green（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Bright%20Green.txt)
+### [Bright Green（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/txt/Bright%20Green.txt)
 ![Bright Green](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bright%20Green.png)
 
 
-### [Green（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Green.txt)
+### [Green（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/txt/Green.txt)
 ![Green](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Green.png)
 
 
-### [Indigo（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Indigo.txt)
+### [Indigo（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/txt/Indigo.txt)
 ![Indigo](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Indigo.png)
 
 
-### [Orange（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Orange.txt)
+### [Orange（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/txt/Orange.txt)
 ![Orange](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Orange.png)
 
 
-### [Pink（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Pink.txt)
+### [Pink（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/txt/Pink.txt)
 ![Pink](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Pink.png)
 
 
-### [Purple（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Purple.txt)
+### [Purple（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/txt/Purple.txt)
 ![Purple](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Purple.png)
 
 
-### [Red（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Red.txt)
+### [Red（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/txt/Red.txt)
 ![Red](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Red.png)
 
 
-### [Teal（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Teal.txt)
+### [Teal（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/txt/Teal.txt)
 ![Teal](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Teal.png)
 
 
-### [Yellow（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Yellow.txt)
+### [Yellow（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/txt/Yellow.txt)
 ![Yellow](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Yellow.png)
 
 
-### [Night Mode（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Night%20Mode.txt)
+### [Night Mode（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/txt/Night%20Mode.txt)
 ![Night Mode](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Night%20Mode.png)
