@@ -14,7 +14,7 @@
 
 
 # Themes
-![Collections](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Collectioins.png)
+![Collections](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Collections.png)
 
 
 ### Blue
