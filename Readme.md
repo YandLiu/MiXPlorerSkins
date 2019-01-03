@@ -2,94 +2,64 @@
 2019.01.02
 从 Bitbucket 挪到 Github
 
+2019.01.03
+更新主题，更换截图
+
+
 # Descriptions
-详见 illustration.ini 或者参考 XDA 用户 FatalBulletHit 的图片：https://i.imgur.com/Wmhsm12.jpg
-FatalBulletHit 原帖：https://forum.xda-developers.com/showpost.php?p=78541319&postcount=733
+详见 [Descriptions.xlsx](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Descriptions.xlsx) 或者参考 [XDA 用户 FatalBulletHit 的图解](https://i.imgur.com/Wmhsm12.jpg)
+
+
+[FatalBulletHit 原帖](https://forum.xda-developers.com/showpost.php?p=78541319&postcount=733)
+
 
 # Themes
-### Bilibili Blue
-![Bilibili Blue 1](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bilibili%20Blue_1.png)
-![Bilibili Blue 2](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bilibili%20Blue_2.png)
-![Bilibili Blue 3](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bilibili%20Blue_3.png)
-![Bilibili Blue 4](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bilibili%20Blue_4.png)
+![Collections](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Collectioins.png)
 
-### Bilibili Green
-![Bilibili Green 1](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bilibili%20Green_1.png)
-![Bilibili Green 2](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bilibili%20Green_2.png)
-![Bilibili Green 3](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bilibili%20Green_3.png)
-![Bilibili Green 4](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bilibili%20Green_4.png)
 
-### Bilibili NightMode
-![Bilibili NightMode 1](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bilibili%20NightMode_1.png)
-![Bilibili NightMode 2](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bilibili%20NightMode_2.png)
-![Bilibili NightMode 3](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bilibili%20NightMode_3.png)
-![Bilibili NightMode 4](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bilibili%20NightMode_4.png)
+### Blue
+![Blue](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Blue.png)
 
-### Bilibili Pink
-![Bilibili Pink 1](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bilibili%20Pink_1.png)
-![Bilibili Pink 2](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bilibili%20Pink_2.png)
-![Bilibili Pink 3](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bilibili%20Pink_3.png)
-![Bilibili Pink 4](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bilibili%20Pink_4.png)
 
-### Bilibili Purple
-![Bilibili Purple 1](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bilibili%20Purple_1.png)
-![Bilibili Purple 2](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bilibili%20Purple_2.png)
-![Bilibili Purple 3](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bilibili%20Purple_3.png)
-![Bilibili Purple 4](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bilibili%20Purple_4.png)
+### Blue Gray
+![Blue Gray](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Blue%20Gray.png)
 
-### Bilibili Red
-![Bilibili Red 1](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bilibili%20Red_1.png)
-![Bilibili Red 2](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bilibili%20Red_2.png)
-![Bilibili Red 3](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bilibili%20Red_3.png)
-![Bilibili Red 4](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bilibili%20Red_4.png)
-
-### Bilibili Yellow
-![Bilibili Yellow 1](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bilibili%20Yellow_1.png)
-![Bilibili Yellow 2](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bilibili%20Yellow_2.png)
-![Bilibili Yellow 3](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bilibili%20Yellow_3.png)
-![Bilibili Yellow 4](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bilibili%20Yellow_4.png)
-
-### Bright Blue
-![Bright Blue 1](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bright%20Blue_1.png)
-![Bright Blue 2](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bright%20Blue_2.png)
-![Bright Blue 3](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bright%20Blue_3.png)
 
 ### Bright Green
-![Bright Green 1](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bright%20Green_1.png)
-![Bright Green 2](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bright%20Green_2.png)
-![Bright Green 3](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bright%20Green_3.png)
+![Bright Green](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bright%20Green.png)
 
-### Bright Pink
-![Bright Pink 1](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bright%20Pink_1.png)
-![Bright Pink 2](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bright%20Pink_2.png)
-![Bright Pink 3](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bright%20Pink_3.png)
 
-### Bright Purple
-![Bright Purple 1](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bright%20Purple_1.png)
-![Bright Purple 2](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bright%20Purple_2.png)
-![Bright Purple 3](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bright%20Purple_3.png)
+### Green
+![Green](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Green.png)
 
-### Bright Red
-![Bright Red 1](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bright%20Red_1.png)
-![Bright Red 2](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bright%20Red_2.png)
-![Bright Red 3](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bright%20Red_3.png)
 
-### Bright Yellow
-![Bright Yellow 1](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bright%20Yellow_1.png)
-![Bright Yellow 2](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bright%20Yellow_2.png)
-![Bright Yellow 3](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bright%20Yellow_3.png)
+### Indigo
+![Indigo](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Indigo.png)
 
-### Coolapk Blue
-![Coolapk Blue 1](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Coolapk%20Blue_1.png)
-![Coolapk Blue 2](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Coolapk%20Blue_2.png)
-![Coolapk Blue 3](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Coolapk%20Blue_3.png)
 
-### Coolapk Gray
-![Coolapk Gray 1](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Coolapk%20Gray_1.png)
-![Coolapk Gray 2](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Coolapk%20Gray_2.png)
-![Coolapk Gray 3](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Coolapk%20Gray_3.png)
+### Orange
+![Orange](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Orange.png)
 
-### Coolapk Green
-![Coolapk Green 1](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Coolapk%20Green_1.png)
-![Coolapk Green 2](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Coolapk%20Green_2.png)
-![Coolapk Green 3](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Coolapk%20Green_3.png)
+
+### Pink
+![Pink](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Pink.png)
+
+
+### Purple
+![Purple](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Purple.png)
+
+
+### Red
+![Red](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Red.png)
+
+
+### Teal
+![Teal](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Teal.png)
+
+
+### Yellow
+![Yellow](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Yellow.png)
+
+
+### Night Mode
+![Night Mode](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Night%20Mode.png)
