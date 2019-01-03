@@ -3,7 +3,7 @@
 从 Bitbucket 挪到 Github
 
 2019.01.03
-更新主题，更换截图
+更新皮肤，更换截图
 
 
 # Descriptions
@@ -17,49 +17,49 @@
 ![Collections](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Collections.png)
 
 
-### Blue
+### [Blue（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Blue.txt)
 ![Blue](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Blue.png)
 
 
-### Blue Gray
+### [Blue Gray（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Blue%20Gray.txt)
 ![Blue Gray](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Blue%20Gray.png)
 
 
-### Bright Green
+### [Bright Green（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Bright%20Green.txt)
 ![Bright Green](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Bright%20Green.png)
 
 
-### Green
+### [Green（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Green.txt)
 ![Green](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Green.png)
 
 
-### Indigo
+### [Indigo（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Indigo.txt)
 ![Indigo](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Indigo.png)
 
 
-### Orange
+### [Orange（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Orange.txt)
 ![Orange](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Orange.png)
 
 
-### Pink
+### [Pink（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Pink.txt)
 ![Pink](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Pink.png)
 
 
-### Purple
+### [Purple（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Purple.txt)
 ![Purple](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Purple.png)
 
 
-### Red
+### [Red（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Red.txt)
 ![Red](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Red.png)
 
 
-### Teal
+### [Teal（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Teal.txt)
 ![Teal](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Teal.png)
 
 
-### Yellow
+### [Yellow（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Yellow.txt)
 ![Yellow](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Yellow.png)
 
 
-### Night Mode
+### [Night Mode（点击查看皮肤代码）](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Night%20Mode.txt)
 ![Night Mode](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Night%20Mode.png)
