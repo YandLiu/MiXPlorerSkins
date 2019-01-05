@@ -13,7 +13,7 @@
 [FatalBulletHit 原帖](https://forum.xda-developers.com/showpost.php?p=78541319&postcount=733)
 
 
-# Themes
+# Skins
 ![Collections](https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Collections.png)
 
 
